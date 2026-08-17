@@ -1,5 +1,5 @@
 # ESP32 and RD-03D Sensor based Heartbeat Sensor 
-
+![RD-03D 스코프 가로모드 전체화면](fullscreen.jpeg)
 스마트폰 브라우저에서 실제 레이더로 사람을 확인하는 프로젝트.
 
 ESP32가 Wi-Fi 서버로 동작하므로 추가 앱 설치 불필요. 
